@@ -1,7 +1,7 @@
 // @TODO: YOUR CODE HERE!
 
 
-//Boilerplate from class
+//Boilerplate from class.
 var svgWidth = 960;
 var svgHeight = 500;
 
